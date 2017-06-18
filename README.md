@@ -31,4 +31,4 @@ Je redessine l'existant et teste maintenant un proto00 juste pour valider que ç
 ![photo6](https://user-images.githubusercontent.com/12049360/27262181-a474bd36-5451-11e7-9930-329593396e0d.jpg)
 
 18g,2h print. Génial, ça passe tout bien. Ya plus qu'à!
-https://user-images.githubusercontent.com/12049360/27262868-f0049006-545f-11e7-8c7b-39895f3e139b.jpg
+![photo7](https://user-images.githubusercontent.com/12049360/27262868-f0049006-545f-11e7-8c7b-39895f3e139b.jpg)
