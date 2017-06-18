@@ -8,7 +8,11 @@ Il y a déjà longtps, j'ai:
 - repeint le cadre,
 - remplacé les roues, 
 - Hub avant, dynamo et frein tambour, 
-- hub arrière, 2 speeds et torpedo,
+- hub arrière, 2 speeds et torpedo,  
+
+![photo00](https://user-images.githubusercontent.com/12049360/27262303-f638c020-5453-11e7-8749-5c4790f0cfd6.jpg)
+![photo00](https://user-images.githubusercontent.com/12049360/27262401-63e1c642-5456-11e7-97a3-18539dcbc2a7.jpg)
+http://openfab.be/2012/04/le-cyclisme-et-ses-lumieres.html
 
 Mais impossible de démonter et remplacer les pédales. 
 
