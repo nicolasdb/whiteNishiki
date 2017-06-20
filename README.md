@@ -30,5 +30,11 @@ Je redessine l'existant et teste maintenant un proto00 juste pour valider que ç
 ![photo5](https://user-images.githubusercontent.com/12049360/27262179-a468e25e-5451-11e7-94e3-ac9486f92216.jpg)
 ![photo6](https://user-images.githubusercontent.com/12049360/27262181-a474bd36-5451-11e7-9930-329593396e0d.jpg)
 
-18g,2h print. Génial, ça passe tout bien. Ya plus qu'à!
+V0 = 18g, 2h 3dprint. Génial, ça passe tout bien. Ya plus qu'à!
 ![photo7](https://user-images.githubusercontent.com/12049360/27262868-f0049006-545f-11e7-8c7b-39895f3e139b.jpg)
+
+V1 = 55g, 3dprint 6.5h, infill 10%, layer 0.3, shell 1
+![photo7](https://user-images.githubusercontent.com/12049360/27320029-9f6c1afc-5594-11e7-978f-9df6c350bba9.jpg)
+
+V2 = 80g, 3dprint 9h, infill 20%, layer 0.3, shell 2
+![photo8]()
