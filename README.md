@@ -36,5 +36,9 @@ V0 = 18g, 2h 3dprint. Génial, ça passe tout bien. Ya plus qu'à!
 V1 = 55g, 3dprint 6.5h, infill 10%, layer 0.3, shell 1
 ![photo7](https://user-images.githubusercontent.com/12049360/27320029-9f6c1afc-5594-11e7-978f-9df6c350bba9.jpg)
 
+Résultat, ça marche mais ça a résisté 3km :)
+![photo8](https://user-images.githubusercontent.com/12049360/27346109-672c6dc4-55ec-11e7-9b9b-d06e2b2792e6.png)
+
+Je passe à un nouveau test, un peu redimensionné et doublage des réglage d'impression.   
 V2 = 80g, 3dprint 9h, infill 20%, layer 0.3, shell 2
-![photo8]()
+![photo9](https://user-images.githubusercontent.com/12049360/27346090-4ea8f2fe-55ec-11e7-835b-99265d612725.png)
